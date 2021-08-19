@@ -1,2 +1,2 @@
-# An Analysis of Kickstarter Campaigns."
+# An Analysis of Kickstarter Campaigns
 Preforming analysis on Kickstarter to uncover trends
